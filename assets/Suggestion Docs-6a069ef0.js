@@ -1,7 +1,0 @@
-import{j as t}from"./jsx-runtime-6f7d562d.js";import{M as e,P as i,C as p}from"./index-6f8b586c.js";import{S as m}from"./suggestion-chip.stories-b2efcb85.js";import{u as r}from"./index-18fc547d.js";import"./iframe-49cd3c65.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./_commonjsHelpers-de833af9.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./vue.esm-bundler-d2445331.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./delegate-169a0fe1.js";import"./elevated-styles.css-7cf113a2.js";import"./chip-5cd5e483.js";import"./ripple-82f18c17.js";import"./assist-chip-df04854d.js";import"./elevation-dd730b41.js";function n(o){const s=Object.assign({h1:"h1",p:"p",h2:"h2"},r(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(e,{of:m}),`
-`,t.jsx(s.h1,{id:"suggestion-chip",children:"Suggestion Chip"}),`
-`,t.jsx(s.p,{children:"Chips help people enter information, make selections, filter content, or trigger actions. Suggestion chips help narrow a user’s intent by presenting dynamically generated suggestions, such as possible responses or search filters."}),`
-`,t.jsx(i,{}),`
-`,t.jsx(s.h2,{id:"props",children:"Props"}),`
-`,t.jsx(p,{})]})}function w(o={}){const{wrapper:s}=Object.assign({},r(),o.components);return s?t.jsx(s,Object.assign({},o,{children:t.jsx(n,o)})):n(o)}export{w as default};
-//# sourceMappingURL=Suggestion Docs-6a069ef0.js.map
