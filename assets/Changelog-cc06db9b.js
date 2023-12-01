@@ -1,0 +1,8 @@
+import{j as e}from"./jsx-runtime-ffb262ed.js";import{u as t}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";function o(r){const n=Object.assign({h1:"h1",h2:"h2",p:"p",a:"a",h3:"h3"},t(),r.components);return e.jsxs(e.Fragment,{children:[e.jsx(n.h1,{id:"changelog",children:"Changelog"}),`
+`,e.jsx(n.h2,{id:"release-0311",children:"Release 0.3.11"}),`
+`,e.jsxs(n.p,{children:["All notable changes to this project will be documented in this file. See ",e.jsx(n.a,{href:"https://github.com/conventional-changelog/standard-version",target:"_blank",rel:"nofollow noopener noreferrer",children:"standard-version"})," for commit guidelines."]}),`
+`,e.jsx(n.h2,{id:"build",children:"Build"}),`
+`,e.jsxs(n.h3,{id:"0311-2023-12-01",children:[e.jsx(n.a,{href:"https://github.com/tejas-encora/IO-Component-Library/compare/v0.3.10...v0.3.11",target:"_blank",rel:"nofollow noopener noreferrer",children:"0.3.11"})," (2023-12-01)"]}),`
+`,e.jsxs(n.h3,{id:"0310-2023-12-01",children:[e.jsx(n.a,{href:"https://github.com/tejas-encora/IO-Component-Library/compare/v0.3.9...v0.3.10",target:"_blank",rel:"nofollow noopener noreferrer",children:"0.3.10"})," (2023-12-01)"]}),`
+`,e.jsxs(n.h3,{id:"039-2023-12-01",children:[e.jsx(n.a,{href:"https://github.com/tejas-encora/IO-Component-Library/compare/v0.3.8...v0.3.9",target:"_blank",rel:"nofollow noopener noreferrer",children:"0.3.9"})," (2023-12-01)"]})]})}function h(r={}){const{wrapper:n}=Object.assign({},t(),r.components);return n?e.jsx(n,Object.assign({},r,{children:e.jsx(o,r)})):o(r)}export{h as default};
+//# sourceMappingURL=Changelog-cc06db9b.js.map
