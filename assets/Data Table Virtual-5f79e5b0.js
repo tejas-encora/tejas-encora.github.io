@@ -1,0 +1,8 @@
+import{j as t}from"./jsx-runtime-ffb262ed.js";import{M as r,P as e,C as s}from"./index-252e8606.js";import{D as l}from"./datatablev.stories-4ae3bb01.js";import{u as i}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-2b85b130.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./IOTextField-f65317bf.js";import"./vue.esm-bundler-abcb067d.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./VDataTable-f8ff387d.js";import"./index-6b9c8506.js";function o(n){const a=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),n.components);return t.jsxs(t.Fragment,{children:[t.jsx(r,{of:l}),`
+`,t.jsx(a.h1,{id:"data-table-virtual",children:"Data Table Virtual"}),`
+`,t.jsx(a.p,{children:"The IODataTable* components are used for displaying tabular data. Features include sorting, searching, pagination, grouping, and row selection."}),`
+`,t.jsx(a.p,{children:"The IODataTableV component relies on all data being available locally. But unlike the standard data-table it uses virtualization to only render a small portion of the rows. This makes it well suited for displaying large data sets. It supports sorting and filtering, but not pagination."}),`
+`,t.jsx(e,{}),`
+`,t.jsx(a.h2,{id:"props",children:"Props"}),`
+`,t.jsx(s,{})]})}function w(n={}){const{wrapper:a}=Object.assign({},i(),n.components);return a?t.jsx(a,Object.assign({},n,{children:t.jsx(o,n)})):o(n)}export{w as default};
+//# sourceMappingURL=Data Table Virtual-5f79e5b0.js.map
