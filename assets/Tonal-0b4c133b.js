@@ -1,0 +1,7 @@
+import{j as t}from"./jsx-runtime-ffb262ed.js";import{M as m,P as s,C as p}from"./index-b48e0f7d.js";import{T as e}from"./tonal.stories-a69e8d54.js";import{u as i}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-1229b648.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./aria-6ffa173a.js";import"./elevation-87506c6d.js";import"./shared-styles.css-ed20fad2.js";import"./ripple-2dc3e573.js";import"./static-a2ca251b.js";import"./delegate-5cdc826b.js";import"./form-submitter-8f5ad694.js";import"./events-00ef5ad2.js";import"./shared-elevation-styles.css-6afce514.js";import"./vue.esm-bundler-fc246aa1.js";import"./_plugin-vue_export-helper-c27b6911.js";function r(o){const n=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(m,{of:e}),`
+`,t.jsx(n.h1,{id:"tonal-button",children:"Tonal Button"}),`
+`,t.jsx(n.p,{children:"Buttons help people take actions, such as sending an email, sharing a document, or liking a comment."}),`
+`,t.jsx(s,{}),`
+`,t.jsx(n.h2,{id:"props",children:"Props"}),`
+`,t.jsx(p,{})]})}function E(o={}){const{wrapper:n}=Object.assign({},i(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(r,o)})):r(o)}export{E as default};
+//# sourceMappingURL=Tonal-0b4c133b.js.map
