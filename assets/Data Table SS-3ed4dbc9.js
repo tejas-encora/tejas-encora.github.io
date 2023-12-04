@@ -1,0 +1,10 @@
+import{j as e}from"./jsx-runtime-ffb262ed.js";import{M as r,P as s,C as i}from"./index-e9e900a3.js";import{D as l}from"./datatabless.stories-7c3afa1f.js";import{u as o}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-87f4df53.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./vue.esm-bundler-fc246aa1.js";import"./IOTextField-2e6e46c2.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./VDataTable-37d8b691.js";import"./index-4c940688.js";function n(a){const t=Object.assign({h1:"h1",p:"p",a:"a",h2:"h2"},o(),a.components);return e.jsxs(e.Fragment,{children:[e.jsx(r,{of:l}),`
+`,e.jsx(t.h1,{id:"data-table",children:"Data Table"}),`
+`,e.jsx(t.p,{children:"The IODataTable* components are used for displaying tabular data. Features include sorting, searching, pagination, grouping, and row selection."}),`
+`,e.jsx(t.p,{children:"The IODataTableSS component is meant to be used for very large datasets, where it would be inefficient to load all the data into the client. It supports sorting, filtering, pagination, and selection like a standard data table, but all the logic must be handled externally by your backend or database."}),`
+`,e.jsxs(t.p,{children:["Reference: ",e.jsx(t.a,{href:"https://vuetifyjs.com/en/components/data-tables/virtual-tables/#examples",target:"_blank",rel:"nofollow noopener noreferrer",children:"https://vuetifyjs.com/en/components/data-tables/virtual-tables/#examples"}),`
+Reference: `,e.jsx(t.a,{href:"https://vuetifyjs.com/en/components/data-tables/basics/",target:"_blank",rel:"nofollow noopener noreferrer",children:"https://vuetifyjs.com/en/components/data-tables/basics/"})]}),`
+`,e.jsx(s,{}),`
+`,e.jsx(t.h2,{id:"props",children:"Props"}),`
+`,e.jsx(i,{})]})}function C(a={}){const{wrapper:t}=Object.assign({},o(),a.components);return t?e.jsx(t,Object.assign({},a,{children:e.jsx(n,a)})):n(a)}export{C as default};
+//# sourceMappingURL=Data Table SS-3ed4dbc9.js.map
