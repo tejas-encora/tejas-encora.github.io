@@ -1,0 +1,10 @@
+import{j as e}from"./jsx-runtime-ffb262ed.js";import{M as r,P as s,C as i}from"./index-488cc4a5.js";import{D as l}from"./datatablev.stories-f3ed5d15.js";import{u as o}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-4a1d5cb7.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./IOTextField-65292961.js";import"./vue.esm-bundler-3b182064.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./VDataTable-bb68c6cd.js";import"./index-5860522e.js";function n(a){const t=Object.assign({h1:"h1",p:"p",a:"a",h2:"h2"},o(),a.components);return e.jsxs(e.Fragment,{children:[e.jsx(r,{of:l}),`
+`,e.jsx(t.h1,{id:"data-table-virtual",children:"Data Table Virtual"}),`
+`,e.jsx(t.p,{children:"The IODataTable* components are used for displaying tabular data. Features include sorting, searching, pagination, grouping, and row selection."}),`
+`,e.jsx(t.p,{children:"The IODataTableV component relies on all data being available locally. But unlike the standard data-table it uses virtualization to only render a small portion of the rows. This makes it well suited for displaying large data sets. It supports sorting and filtering, but not pagination."}),`
+`,e.jsxs(t.p,{children:["Reference: ",e.jsx(t.a,{href:"https://vuetifyjs.com/en/components/data-tables/server-side-tables/#examples",target:"_blank",rel:"nofollow noopener noreferrer",children:"https://vuetifyjs.com/en/components/data-tables/server-side-tables/#examples"}),`
+Reference: `,e.jsx(t.a,{href:"https://vuetifyjs.com/en/components/data-tables/basics/",target:"_blank",rel:"nofollow noopener noreferrer",children:"https://vuetifyjs.com/en/components/data-tables/basics/"})]}),`
+`,e.jsx(s,{}),`
+`,e.jsx(t.h2,{id:"props",children:"Props"}),`
+`,e.jsx(i,{})]})}function C(a={}){const{wrapper:t}=Object.assign({},o(),a.components);return t?e.jsx(t,Object.assign({},a,{children:e.jsx(n,a)})):n(a)}export{C as default};
+//# sourceMappingURL=Data Table Virtual-4f663174.js.map

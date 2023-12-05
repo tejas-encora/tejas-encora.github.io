@@ -1,0 +1,7 @@
+import{j as o}from"./jsx-runtime-ffb262ed.js";import{M as s,P as i,C as m}from"./index-488cc4a5.js";import{C as p}from"./checkbox.stories-edb66399.js";import{u as e}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-4a1d5cb7.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./animation-c900ecb0.js";import"./ripple-3e7a48bc.js";import"./delegate-e2fd2eae.js";import"./events-00ef5ad2.js";import"./vue.esm-bundler-3b182064.js";import"./_plugin-vue_export-helper-c27b6911.js";function n(t){const r=Object.assign({h1:"h1",p:"p",h2:"h2"},e(),t.components);return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:p}),`
+`,o.jsx(r.h1,{id:"checkbox",children:"Checkbox"}),`
+`,o.jsx(r.p,{children:"Checkboxes allow users to select one or more items from a set. Checkboxes can turn an option on or off."}),`
+`,o.jsx(i,{}),`
+`,o.jsx(r.h2,{id:"props",children:"Props"}),`
+`,o.jsx(m,{})]})}function w(t={}){const{wrapper:r}=Object.assign({},e(),t.components);return r?o.jsx(r,Object.assign({},t,{children:o.jsx(n,t)})):n(t)}export{w as default};
+//# sourceMappingURL=Checkbox-fcdcfa4a.js.map
