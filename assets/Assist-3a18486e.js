@@ -1,0 +1,7 @@
+import{j as t}from"./jsx-runtime-ffb262ed.js";import{M as n,P as p,C as e}from"./index-c12336f1.js";import{A as m}from"./assist-chip.stories-aec628f0.js";import{u as r}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-76cbaac9.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./vue.esm-bundler-3b182064.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./animation-c900ecb0.js";import"./assist-chip-6f4b08c8.js";import"./elevation-da643fc7.js";import"./chip-ad500f32.js";import"./ripple-3e7a48bc.js";import"./delegate-e2fd2eae.js";import"./elevated-styles.css-8cda58d7.js";function i(o){const s=Object.assign({h1:"h1",p:"p",h2:"h2"},r(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(n,{of:m}),`
+`,t.jsx(s.h1,{id:"assist-chip",children:"Assist Chip"}),`
+`,t.jsx(s.p,{children:"Chips help people enter information, make selections, filter content, or trigger actions. Assist chips represent smart or automated actions that can span multiple apps."}),`
+`,t.jsx(p,{}),`
+`,t.jsx(s.h2,{id:"props",children:"Props"}),`
+`,t.jsx(e,{})]})}function w(o={}){const{wrapper:s}=Object.assign({},r(),o.components);return s?t.jsx(s,Object.assign({},o,{children:t.jsx(i,o)})):i(o)}export{w as default};
+//# sourceMappingURL=Assist-3a18486e.js.map

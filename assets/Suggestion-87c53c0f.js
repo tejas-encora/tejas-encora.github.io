@@ -1,7 +1,0 @@
-import{j as t}from"./jsx-runtime-ffb262ed.js";import{M as n,P as e,C as p}from"./index-36172be7.js";import{S as m}from"./suggestion-chip.stories-a1222fa0.js";import{u as i}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-51326acc.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./vue.esm-bundler-3b182064.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./animation-c900ecb0.js";import"./elevated-styles.css-8cda58d7.js";import"./chip-ad500f32.js";import"./ripple-3e7a48bc.js";import"./delegate-e2fd2eae.js";import"./assist-chip-6f4b08c8.js";import"./elevation-da643fc7.js";function s(o){const r=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(n,{of:m}),`
-`,t.jsx(r.h1,{id:"suggestion-chip",children:"Suggestion Chip"}),`
-`,t.jsx(r.p,{children:"Chips help people enter information, make selections, filter content, or trigger actions. Suggestion chips help narrow a user’s intent by presenting dynamically generated suggestions, such as possible responses or search filters."}),`
-`,t.jsx(e,{}),`
-`,t.jsx(r.h2,{id:"props",children:"Props"}),`
-`,t.jsx(p,{})]})}function k(o={}){const{wrapper:r}=Object.assign({},i(),o.components);return r?t.jsx(r,Object.assign({},o,{children:t.jsx(s,o)})):s(o)}export{k as default};
-//# sourceMappingURL=Suggestion-87c53c0f.js.map
