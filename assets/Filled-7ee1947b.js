@@ -1,0 +1,7 @@
+import{j as t}from"./jsx-runtime-ffb262ed.js";import{M as m,P as s,C as e}from"./index-36172be7.js";import{F as p}from"./filled.stories-e2c0989e.js";import{u as r}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-51326acc.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./animation-c900ecb0.js";import"./elevation-da643fc7.js";import"./shared-styles.css-23d309b5.js";import"./ripple-3e7a48bc.js";import"./static-73c25833.js";import"./delegate-e2fd2eae.js";import"./form-submitter-786f4ae6.js";import"./events-00ef5ad2.js";import"./shared-elevation-styles.css-c230fe8b.js";import"./vue.esm-bundler-3b182064.js";import"./_plugin-vue_export-helper-c27b6911.js";function i(o){const n=Object.assign({h1:"h1",p:"p",h2:"h2"},r(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(m,{of:p}),`
+`,t.jsx(n.h1,{id:"filled-button",children:"Filled Button"}),`
+`,t.jsx(n.p,{children:"Buttons help people take actions, such as sending an email, sharing a document, or liking a comment."}),`
+`,t.jsx(s,{}),`
+`,t.jsx(n.h2,{id:"props",children:"Props"}),`
+`,t.jsx(e,{})]})}function E(o={}){const{wrapper:n}=Object.assign({},r(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(i,o)})):i(o)}export{E as default};
+//# sourceMappingURL=Filled-7ee1947b.js.map
