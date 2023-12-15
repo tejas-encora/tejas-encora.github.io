@@ -1,7 +1,0 @@
-import{j as o}from"./jsx-runtime-ffb262ed.js";import{M as s,P as e,C as m}from"./index-c12336f1.js";import{I as p}from"./iconmenu.stories-122d2b62.js";import{u as i}from"./index-a1cf9e47.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";import"./iframe-76cbaac9.js";import"../sb-preview/runtime.js";import"./chunk-6P7RB4HF-c879cb99.js";import"./index-d37d4223.js";import"./index-b67253cd.js";import"./index-356e4a49.js";import"./animation-c900ecb0.js";import"./ripple-3e7a48bc.js";import"./elevation-da643fc7.js";import"./style-map-7c20cf8d.js";import"./IOIconButtonFilled-1103cbb3.js";import"./shared-styles.css-2558cbc8.js";import"./static-73c25833.js";import"./delegate-e2fd2eae.js";import"./form-submitter-786f4ae6.js";/* empty css              */import"./vue.esm-bundler-3b182064.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./index-364de5b2.js";function n(t){const r=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),t.components);return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:p}),`
-`,o.jsx(r.h1,{id:"icon-menu",children:"Icon Menu"}),`
-`,o.jsx(r.p,{children:"Menus display a list of choices on a temporary surface. They appear when users interact with a button, action, or other control."}),`
-`,o.jsx(e,{}),`
-`,o.jsx(r.h2,{id:"props",children:"Props"}),`
-`,o.jsx(m,{})]})}function T(t={}){const{wrapper:r}=Object.assign({},i(),t.components);return r?o.jsx(r,Object.assign({},t,{children:o.jsx(n,t)})):n(t)}export{T as default};
-//# sourceMappingURL=Icon Menu-c2790036.js.map
