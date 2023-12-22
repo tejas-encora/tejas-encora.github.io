@@ -1,0 +1,14 @@
+import{p as m,q as y,d as S,w as o,o as D,e as T,s as O,t as v,u as I,v as M,m as _}from"./vue.esm-bundler-VhMez9An.js";import{V as w,a as x}from"./VDataTable-2PMy9x6G.js";const h={__name:"IODataTable",props:{hasSearch:{type:Boolean,default:!1},items:{type:Array,required:!0},loading:{type:Boolean,default:!1},headers:{type:Array,required:!0}},setup(e){const a=e,f=m("");m([]);const b=y(()=>a.hasSearch);return console.log("headers",a.headers),(l,A)=>(D(),S(w,{border:"",class:"mx-auto",hasSearch:b.value,style:{"max-height":"300px",overflow:"auto"}},{default:o(()=>[T(x,{headers:e.headers,items:e.items,search:f.value,loading:e.loading,"items-per-page":-1,class:"zebra"},O({bottom:o(()=>[]),_:2},[v(Object.keys(l.$slots),c=>({name:c,fn:o(g=>[_(l.$slots,c,M(I(g)))])}))]),1032,["headers","items","search","loading"])]),_:3},8,["hasSearch"]))}},n=h;h.__docgenInfo={exportName:"default",displayName:"IODataTable",description:"",tags:{},props:[{name:"hasSearch",type:{name:"boolean"},defaultValue:{func:!1,value:"false"}},{name:"items",type:{name:"array"},required:!0},{name:"loading",type:{name:"boolean"},defaultValue:{func:!1,value:"false"}},{name:"headers",type:{name:"array"},required:!0}],slots:[{name:"slot",scoped:!0,bindings:[{name:"name",title:"binding"}]}],sourceFiles:["/Users/tmonteverdi/Sites/localhost/IO-Component-Library/src/labs/DataTable/IODataTable.vue"]};const p='<IODataTable :hasSearch=args.hasSearch :items="mockData" class="zebra" />',t=[];function B(){const e=["Aragorn","Legolas","Gimli","Frodo","Samwise","Gandalf","Bilbo","Gollum","Sauron","Galadriel","Boromir","Merry","Pippin","Eowyn","Faramir","Theoden","Saruman","Elrond","Arwen","Celeborn"],a=Math.floor(Math.random()*e.length);return e[a]}function k(e,a){return Math.floor(Math.random()*(a-e+1))+e}for(let e=0;e<20;e++){const a={name:`${B()}`,race:Math.random()<.5?"Human":"Elf",gender:Math.random()<.5?"Male":"Female",birth:`TA ${k(1e3,3e3)}`};t.push(a)}console.log(t);const q={title:"UI/Labs/DataTables",component:n,render:e=>({components:{IODataTable:n},setup(){return{args,mockData:t}},template:p}),args:{hasSearch:!1},argTypes:{hasSearch:{controls:{type:"boolean"},description:"Show search"}}},r={render:e=>({components:{IODataTable:n},setup(){return{args:e,mockData:t}},template:p})},s=document.querySelector(".doc-story");s&&(s.style.height="auto",s.style.overflow="auto");var d,u,i;r.parameters={...r.parameters,docs:{...(d=r.parameters)==null?void 0:d.docs,source:{originalSource:`{
+  render: args => ({
+    components: {
+      IODataTable
+    },
+    setup() {
+      return {
+        args,
+        mockData
+      };
+    },
+    template
+  })
+}`,...(i=(u=r.parameters)==null?void 0:u.docs)==null?void 0:i.source}}};const V=["Default"],j=Object.freeze(Object.defineProperty({__proto__:null,Default:r,__namedExportsOrder:V,default:q},Symbol.toStringTag,{value:"Module"}));export{j as D};
