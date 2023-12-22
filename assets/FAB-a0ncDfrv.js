@@ -1,6 +1,0 @@
-import{j as t}from"./jsx-runtime-vNq4Oc-g.js";import{M as s,P as e,C as m}from"./index-TYW5pund.js";import{F as p}from"./fab.stories-EwwlGcaZ.js";import{useMDXComponents as i}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-f65NHSZ4.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";/* empty css              */import"./vue.esm-bundler-CdyOBFpo.js";import"./_plugin-vue_export-helper-x3n3nnut.js";import"./animation-_TEqrmD1.js";import"./elevation-8D4iMx2P.js";import"./ripple-7WbymdBP.js";import"./delegate-G9HsjGKO.js";function r(o){const n=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:p}),`
-`,t.jsx(n.h1,{id:"floating-action-buttons-fab",children:"Floating action buttons (FAB)"}),`
-`,t.jsx(n.p,{children:"FABs help people take primary actions. They’re used to represent the most important action on a screen."}),`
-`,t.jsx(e,{}),`
-`,t.jsx(n.h2,{id:"props",children:"Props"}),`
-`,t.jsx(m,{})]})}function P(o={}){const{wrapper:n}=Object.assign({},i(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(r,o)})):r(o)}export{P as default};

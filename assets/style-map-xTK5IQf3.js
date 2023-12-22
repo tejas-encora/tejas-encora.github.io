@@ -1,0 +1,5 @@
+import{a as u,b as l,t as c,w as d}from"./animation-YsUuX9Ai.js";/**
+ * @license
+ * Copyright 2018 Google LLC
+ * SPDX-License-Identifier: BSD-3-Clause
+ */const o="important",a=" !"+o,p=u(class extends l{constructor(n){var e;if(super(n),n.type!==c.ATTRIBUTE||n.name!=="style"||((e=n.strings)==null?void 0:e.length)>2)throw Error("The `styleMap` directive must be used in the `style` attribute and must be the only part in the attribute.")}render(n){return Object.keys(n).reduce((e,s)=>{const t=n[s];return t==null?e:e+`${s=s.includes("-")?s:s.replace(/(?:^(webkit|moz|ms|o)|)(?=[A-Z])/g,"-$&").toLowerCase()}:${t};`},"")}update(n,[e]){const{style:s}=n.element;if(this.ut===void 0)return this.ut=new Set(Object.keys(e)),this.render(e);for(const t of this.ut)e[t]==null&&(this.ut.delete(t),t.includes("-")?s.removeProperty(t):s[t]=null);for(const t in e){const r=e[t];if(r!=null){this.ut.add(t);const i=typeof r=="string"&&r.endsWith(a);t.includes("-")||i?s.setProperty(t,i?r.slice(0,-11):r,i?o:""):s[t]=r}}return d}});export{p as o};

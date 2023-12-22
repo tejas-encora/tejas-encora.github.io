@@ -1,6 +1,0 @@
-import{j as t}from"./jsx-runtime-vNq4Oc-g.js";import{M as m,P as s,C as e}from"./index-TYW5pund.js";import{T as p}from"./text.stories-IcvLqFNE.js";import{useMDXComponents as i}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-f65NHSZ4.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";import"./animation-_TEqrmD1.js";import"./shared-styles.css-tIV3IFT_.js";import"./ripple-7WbymdBP.js";import"./query-assigned-elements-BJFWMYs6.js";import"./delegate-G9HsjGKO.js";import"./events-SXK1JT6v.js";import"./form-submitter-Xm2BG3yp.js";import"./element-internals-MRZXgA-l.js";import"./vue.esm-bundler-CdyOBFpo.js";import"./_plugin-vue_export-helper-x3n3nnut.js";function r(o){const n=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(m,{of:p}),`
-`,t.jsx(n.h1,{id:"text-button",children:"Text Button"}),`
-`,t.jsx(n.p,{children:"Buttons help people take actions, such as sending an email, sharing a document, or liking a comment."}),`
-`,t.jsx(s,{}),`
-`,t.jsx(n.h2,{id:"props",children:"Props"}),`
-`,t.jsx(e,{})]})}function w(o={}){const{wrapper:n}=Object.assign({},i(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(r,o)})):r(o)}export{w as default};
