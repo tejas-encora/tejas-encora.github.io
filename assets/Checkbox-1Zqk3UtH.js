@@ -1,0 +1,6 @@
+import{j as o}from"./jsx-runtime-vNq4Oc-g.js";import{M as s,P as i,C as m}from"./index-xylrIiJp.js";import{C as p}from"./checkbox.stories-CR7IFbOu.js";import{useMDXComponents as e}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-TML3O8j1.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";import"./animation-_TEqrmD1.js";import"./ripple-7WbymdBP.js";import"./delegate-G9HsjGKO.js";import"./events-SXK1JT6v.js";import"./validator-bsz2Xc5j.js";import"./element-internals-MRZXgA-l.js";import"./vue.esm-bundler-mXbcqxd8.js";import"./_plugin-vue_export-helper-x3n3nnut.js";function n(t){const r=Object.assign({h1:"h1",p:"p",h2:"h2"},e(),t.components);return o.jsxs(o.Fragment,{children:[o.jsx(s,{of:p}),`
+`,o.jsx(r.h1,{id:"checkbox",children:"Checkbox"}),`
+`,o.jsx(r.p,{children:"Checkboxes allow users to select one or more items from a set. Checkboxes can turn an option on or off."}),`
+`,o.jsx(i,{}),`
+`,o.jsx(r.h2,{id:"props",children:"Props"}),`
+`,o.jsx(m,{})]})}function _(t={}){const{wrapper:r}=Object.assign({},e(),t.components);return r?o.jsx(r,Object.assign({},t,{children:o.jsx(n,t)})):n(t)}export{_ as default};
