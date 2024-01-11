@@ -1,0 +1,6 @@
+import{j as t}from"./jsx-runtime-vNq4Oc-g.js";import{M as e,P as p,C as s}from"./index-29SPF6RH.js";import{I as m}from"./input-chip.stories-XAsv09qG.js";import{useMDXComponents as i}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-0rjGBao7.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";import"./vue.esm-bundler-mXbcqxd8.js";import"./_plugin-vue_export-helper-x3n3nnut.js";import"./input-chip-o4-4W9sh.js";import"./animation-_TEqrmD1.js";import"./trailing-icon-styles.css-cJGm5kX3.js";import"./shared-styles.css-VzWOaktw.js";import"./ripple-7WbymdBP.js";import"./delegate-G9HsjGKO.js";function n(o){const r=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(e,{of:m}),`
+`,t.jsx(r.h1,{id:"input-chip",children:"Input Chip"}),`
+`,t.jsx(r.p,{children:"Chips help people enter information, make selections, filter content, or trigger actions. Input chips represent discrete pieces of information entered by a user."}),`
+`,t.jsx(p,{}),`
+`,t.jsx(r.h2,{id:"props",children:"Props"}),`
+`,t.jsx(s,{})]})}function k(o={}){const{wrapper:r}=Object.assign({},i(),o.components);return r?t.jsx(r,Object.assign({},o,{children:t.jsx(n,o)})):n(o)}export{k as default};
