@@ -1,0 +1,6 @@
+import{j as t}from"./jsx-runtime-vNq4Oc-g.js";import{M as e,P as p,C as s}from"./index-2ubWwSfP.js";import{I as m}from"./filledicon.stories-uoC28RmA.js";import{useMDXComponents as i}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-Prj8K8pR.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";import"./filled-icon-button-B2zI4H0s.js";import"./vue.esm-bundler-IQnt_YWr.js";import"./animation-_TEqrmD1.js";import"./shared-styles.css-5XbDJh92.js";import"./ripple-7WbymdBP.js";import"./static-VcHqXR5s.js";import"./delegate-G9HsjGKO.js";import"./form-submitter-Xm2BG3yp.js";import"./element-internals-MRZXgA-l.js";function r(o){const n=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(e,{of:m}),`
+`,t.jsx(n.h1,{id:"filled-icon-button",children:"Filled Icon Button"}),`
+`,t.jsx(n.p,{children:"Icon buttons help people take supplementary actions with a single tap."}),`
+`,t.jsx(p,{}),`
+`,t.jsx(n.h2,{id:"props",children:"Props"}),`
+`,t.jsx(s,{})]})}function B(o={}){const{wrapper:n}=Object.assign({},i(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(r,o)})):r(o)}export{B as default};
