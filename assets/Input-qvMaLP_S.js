@@ -1,0 +1,6 @@
+import{j as t}from"./jsx-runtime-vNq4Oc-g.js";import{M as e,P as p,C as s}from"./index-XaFhIdfz.js";import{I as m}from"./input-chip.stories-ok3MQj_k.js";import{useMDXComponents as i}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-xL50e7FO.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";import"./vue.esm-bundler-GE7kM0dE.js";import"./input-chip-PelvHGMz.js";import"./ripple-6UIGBq4O.js";import"./trailing-icon-styles.css-D-rYsYrd.js";import"./shared-styles.css-7nJ-9ka4.js";import"./delegate-G9HsjGKO.js";function r(n){const o=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),n.components);return t.jsxs(t.Fragment,{children:[t.jsx(e,{of:m}),`
+`,t.jsx(o.h1,{id:"input-chip",children:"Input Chip"}),`
+`,t.jsx(o.p,{children:"Chips help people enter information, make selections, filter content, or trigger actions. Input chips represent discrete pieces of information entered by a user."}),`
+`,t.jsx(p,{}),`
+`,t.jsx(o.h2,{id:"props",children:"Props"}),`
+`,t.jsx(s,{})]})}function X(n={}){const{wrapper:o}=Object.assign({},i(),n.components);return o?t.jsx(o,Object.assign({},n,{children:t.jsx(r,n)})):r(n)}export{X as default};
