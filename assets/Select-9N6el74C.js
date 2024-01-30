@@ -1,0 +1,6 @@
+import{j as t}from"./jsx-runtime-vNq4Oc-g.js";import{M as i,P as s,C as m}from"./index-MiEii8NK.js";import{S as p}from"./ioselect.stories-alQz3w-Z.js";import{useMDXComponents as e}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-S50De3T9.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";import"./vue.esm-bundler-QJnZ6R36.js";/* empty css             */import"./_plugin-vue_export-helper-x3n3nnut.js";import"./VSelect-KzR-RCPo.js";import"./VTextField-O-fnktmE.js";import"./index-djiTNmJk.js";import"./resizeObserver-H-aYw9hH.js";function n(o){const r=Object.assign({h1:"h1",p:"p",h2:"h2"},e(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(i,{of:p}),`
+`,t.jsx(r.h1,{id:"select",children:"Select"}),`
+`,t.jsx(r.p,{children:"Select fields components are used for collecting user provided information from a list of options."}),`
+`,t.jsx(s,{}),`
+`,t.jsx(r.h2,{id:"props",children:"Props"}),`
+`,t.jsx(m,{})]})}function _(o={}){const{wrapper:r}=Object.assign({},e(),o.components);return r?t.jsx(r,Object.assign({},o,{children:t.jsx(n,o)})):n(o)}export{_ as default};
