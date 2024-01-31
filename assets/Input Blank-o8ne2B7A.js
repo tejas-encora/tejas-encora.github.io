@@ -1,0 +1,6 @@
+import{j as t}from"./jsx-runtime-vNq4Oc-g.js";import{M as s,P as p,C as e}from"./index-ipwT88Z_.js";import{I as m}from"./input-chip-blank.stories-Mm0d0wHo.js";import{useMDXComponents as i}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-TPfZX28G.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";import"./vue.esm-bundler-ogOaoeLG.js";import"./_plugin-vue_export-helper-x3n3nnut.js";import"./input-chip-PelvHGMz.js";import"./ripple-6UIGBq4O.js";import"./trailing-icon-styles.css-D-rYsYrd.js";import"./shared-styles.css-7nJ-9ka4.js";import"./delegate-G9HsjGKO.js";function r(n){const o=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),n.components);return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:m}),`
+`,t.jsx(o.h1,{id:"blank-input-chip",children:"Blank Input Chip"}),`
+`,t.jsx(o.p,{children:"Chips help people enter information, make selections, filter content, or trigger actions. Assist chips represent smart or automated actions that can span multiple apps."}),`
+`,t.jsx(p,{}),`
+`,t.jsx(o.h2,{id:"props",children:"Props"}),`
+`,t.jsx(e,{})]})}function y(n={}){const{wrapper:o}=Object.assign({},i(),n.components);return o?t.jsx(o,Object.assign({},n,{children:t.jsx(r,n)})):r(n)}export{y as default};
