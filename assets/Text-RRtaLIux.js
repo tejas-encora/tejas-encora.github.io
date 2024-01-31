@@ -1,0 +1,6 @@
+import{j as t}from"./jsx-runtime-vNq4Oc-g.js";import{M as s,P as e,C as m}from"./index-s-wJ1dVN.js";import{T as p}from"./text.stories-5X44RvfC.js";import{useMDXComponents as i}from"./index-_VGcpBFS.js";import"./index-4g5l5LRQ.js";import"./_commonjsHelpers-4gQjN7DL.js";import"./iframe-mlRsRDyB.js";import"../sb-preview/runtime.js";import"./chunk-ZGA76URP-Uk8hDnuP.js";import"./index-ogXoivrg.js";import"./index-yyIE76pf.js";import"./index-PPLHz8o0.js";import"./ripple-6UIGBq4O.js";import"./shared-styles.css-e7zL42BN.js";import"./query-assigned-elements-xCUt85kR.js";import"./delegate-G9HsjGKO.js";import"./events-SXK1JT6v.js";import"./form-submitter-hhGsbwYj.js";import"./element-internals-MRZXgA-l.js";import"./vue.esm-bundler-ogOaoeLG.js";function r(o){const n=Object.assign({h1:"h1",p:"p",h2:"h2"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(s,{of:p}),`
+`,t.jsx(n.h1,{id:"text-button",children:"Text Button"}),`
+`,t.jsx(n.p,{children:"Buttons help people take actions, such as sending an email, sharing a document, or liking a comment."}),`
+`,t.jsx(e,{}),`
+`,t.jsx(n.h2,{id:"props",children:"Props"}),`
+`,t.jsx(m,{})]})}function y(o={}){const{wrapper:n}=Object.assign({},i(),o.components);return n?t.jsx(n,Object.assign({},o,{children:t.jsx(r,o)})):r(o)}export{y as default};
